@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shiva Ram
 
-<img align="right" alt="Coding" width="320" src="SHIVA RAM">
+<img align="right" alt="Coding" width="320" src="SHIVA RAM.png">
 
 ### Electronics & Communication Engineering Student
 
