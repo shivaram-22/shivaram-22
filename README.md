@@ -12,7 +12,7 @@ I am an undergraduate Electronics and Communication Engineering student at India
 - 💡 Love building practical projects that solve real-world problems
 - ⚡ Goal: Become a skilled engineer and contribute to impactful technology.
 
----
+  
 
 ## 🛠️ Languages & Tools
 
