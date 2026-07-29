@@ -4,10 +4,10 @@
 
 ### Electronics & Communication Engineering Student
 
-I am an undergraduate Electronics and Communication Engineering student passionate about technology, problem-solving, and continuous learning. I enjoy working on software development, embedded systems, artificial intelligence, and electronics projects.
+I am an undergraduate Electronics and Communication Engineering student at Indian Institute of Information Technology Nagpur  passionate about technology, problem-solving, and continuous learning. I enjoy working on software development, embedded systems, artificial intelligence, and electronics projects.
 
 - 🎓 B.Tech in Electronics and Communication Engineering
-- 🌱 Currently learning Data Structures, Digital Electronics, Python, and Web Development
+- 🌱 Currently learning  Digital Electronics, Python, and Web Development
 - 🤖 Interested in AI, Embedded Systems, VLSI, and Automation
 - 💡 Love building practical projects that solve real-world problems
 - ⚡ Goal: Become a skilled engineer and contribute to impactful technology.
@@ -40,15 +40,7 @@ I am an undergraduate Electronics and Communication Engineering student passiona
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: your@email.com
+- LinkedIn: https://in.linkedin.com/in/shivaram-gollapalli-782620327
+- Email: bt24ece111@iiitn.ac.in
