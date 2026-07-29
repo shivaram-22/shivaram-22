@@ -24,7 +24,7 @@ I am an undergraduate Electronics and Communication Engineering student at India
 
 ## 📚 Currently Learning
 
-- Data Structures & Algorithms
+- VLSI
 - Python
 - Embedded Systems
 - Digital Electronics
