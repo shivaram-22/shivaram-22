@@ -35,7 +35,8 @@ I am an undergraduate Electronics and Communication Engineering student at India
 
 ## 🚀 Featured Projects
 
-- 🌍 Road Request Management System
+-  Road Request Management System
+-  spam-email-detector
 - 🤖 AI-based Projects (Coming Soon)
 
 ---
