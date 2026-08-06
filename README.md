@@ -37,7 +37,7 @@ I am an undergraduate Electronics and Communication Engineering student at India
 
 -  Road Request Management System
 -  spam-email-detector
-- 🤖 AI-based Projects (Coming Soon)
+-  Will be doing more AI-based Projects 
 
 ---
 
